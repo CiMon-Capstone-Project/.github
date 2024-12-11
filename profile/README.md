@@ -70,6 +70,8 @@
   </table>
 </div>
 
+## **Mock Up**
+![image](https://github.com/CiMon-Capstone-Project/.github/blob/main/assets/mockup.jpg)
 ## **Tech Stacks**
 * Design  & UI/UX
   - UI/UX : Figma, Prototype
